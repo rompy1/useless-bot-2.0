@@ -259,4 +259,4 @@ async def me(ctx):
 
 
 
-bot.run("NDU2MDkxMTQ0NTAyMjQ3NDQ0.DgFkRQ.gh-URYH3pphRvTRAczQe00ofP4Y")
+bot.run(os.getenv('TOKEN'))
