@@ -1,1 +1,2 @@
-# useless-bot-2.0
+# useless-bot
+This is my useless bot for discord.
